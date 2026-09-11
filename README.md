@@ -57,5 +57,5 @@
 
 <p align="center">
   👀 <b>Unique Profile Views</b><br />
-  <img src="https://mojo-counter.netlify.app/api/hit?id=CodeWithAN5H-github&label=Views&color=00ff66&style=flat-square" alt="Unique Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=CodeWithAN5H&label=Views&labelColor=%231a1a1a&countColor=%2300ff66&style=flat-square" alt="Unique Visitors" />
 </p>
