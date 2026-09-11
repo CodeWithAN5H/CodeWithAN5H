@@ -55,9 +55,7 @@
 
 ---
 
-<div align="center">
-
-👀 **Profile Views**  
-![Visitor Counter](https://komarev.com/ghpvc/?username=CodeWithAN5H&color=00ff66&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  👀 <b>Unique Profile Views</b><br />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeWithAN5H&count_bg=%2300F0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true" alt="Unique Visitors" />
+</p>
