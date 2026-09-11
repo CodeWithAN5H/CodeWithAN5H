@@ -1,17 +1,30 @@
+<div align="center" style="margin-bottom: 25px;">
+  <table border="0" style="background-color: #0d1117; border-radius: 8px;">
+    <tr>
+      <td align="center" style="padding: 15px; border: 1px solid #00ff66;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vcenter=true&width=550&lines=Deep+diving+into+DSA+%26+Python+fundamentals...;Navigating+the+Class+12+%26+JEE+grind...;Setting+up+the+foundations+for+AI%2FML...;Exploring+Linux+%26+building+habits..." alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 # Hi there, I'm Ansh Singh! 👋
 
 > **High School Student (Class 12) & Aspiring AI/ML Engineer**  
-> *Building cool projects in Python and navigating Linux, while juggling the JEE grind.*
+> *Deep diving into Python fundamentals and navigating Linux, while juggling the JEE grind.*
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 **Status:** Class 12 Student (Science Stream)
-* 🧠 **Learning & Exploring:** Deep diving into Data Structures & Algorithms (DSA) in Python & AI/ML fundamentals
-* 🐧 **OS Setup:** Dual-booting Ubuntu Linux for development
-* 🎬 **Creative Interests:** Video editing with DaVinci Resolve & streaming via OBS
-* 🎯 **Current Goal:** Master Python DSA and survive JEE prep 😅
+| **Core Focus** | **Details** |
+| :--- | :--- |
+| 🎓 **Status** | Class 12 Student (Science / JEE Track) |
+| 🐍 **Learning** | Python Fundamentals & DSA |
+| 🐧 **Environment** | Ubuntu Linux (Dual-Boot) |
+| 🛠️ **Creative Tools** | DaVinci Resolve & OBS Studio |
+| 🎯 **Target** | B.Tech in AI/ML |
 
 ---
 
@@ -43,7 +56,9 @@
 
 ### 💬 Random Coding Quote
 
-![Quote Generator](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+</p>
 
 ---
 
@@ -56,6 +71,5 @@
 ---
 
 <p align="center">
-  👀 <b>Unique Profile Views</b><br />
-  <img src="https://api.visitorbadge.io/api/visitors?path=CodeWithAN5H&label=Views&labelColor=%231a1a1a&countColor=%2300ff66&style=flat-square" alt="Unique Visitors" />
+  <i>⚡ "Consistency beats intensity every single time." — Balancing Class 12 PCM, DSA, and Linux configs.</i>
 </p>
